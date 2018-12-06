@@ -1,2 +1,2 @@
-# petarporov.github.io
-JS final exam
+# JS exam
+JS-core final exam
